@@ -138,7 +138,7 @@
     "devtools-protocol": "0.0.1724436",
     "lilconfig": "^3.1.5",
     "puppeteer-core": "25.18.1",
-    "typed-query-selector": "^2.12.3"
+    "typed-query-selector": "^2.12.4"
   },
   "devDependencies": {
     "@types/node": "^18.17.15"
